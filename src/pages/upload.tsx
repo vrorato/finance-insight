@@ -68,7 +68,7 @@ const UploadPage: React.FC = () => {
                     <div className="absolute inset-0 z-50 rounded-3xl flex flex-col items-center justify-center bg-neutral-950/80 backdrop-blur-sm">
                         <div className="w-12 h-12 border-4 border-emerald-500/20 border-t-emerald-500 rounded-full animate-spin mb-4" />
                         <p className="text-sm font-medium text-emerald-400">Processing with AI...</p>
-                        <p className="text-[11px] text-neutral-500 mt-1">This may take a few seconds</p>
+                        <p className="text-[11px] text-neutral-500 mt-1">This may take a few minutes due to free AI limitations</p>
                     </div>
                 )}
 
