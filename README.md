@@ -52,22 +52,6 @@ NeonGrid is a premium, AI-powered financial analysis dashboard designed to categ
     npm run build
     ```
 
-## 🔄 Updating to GitHub
-
-Whenever you make changes to your files and want to update the online repository, follow these 3 steps:
-
-1.  **Stage your changes**:
-    ```bash
-    git add .
-    ```
-2.  **Commit with a message**:
-    ```bash
-    git commit -m "Describe what you changed"
-    ```
-3.  **Push to GitHub**:
-    ```bash
-    git push
-    ```
 
 ## 📁 Project Structure
 
