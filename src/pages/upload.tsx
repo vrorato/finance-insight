@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import NeonLayout from '../components/layout/neon-layout';
 import { CloudUpload, FileText, CheckCircle2, AlertCircle, X } from 'lucide-react';
 
-const n8nWebhookUrl = 'https://primary-production-af44.up.railway.app/webhook/csv-upload-api';
+const n8nWebhookUrl = n8nwebhook;
 
 const UploadPage: React.FC = () => {
     const navigate = useNavigate();
